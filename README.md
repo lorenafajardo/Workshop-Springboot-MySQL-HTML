@@ -16,11 +16,16 @@ Para el despliegue de la aplicación el proyecto se ejecuta como *Spring Boot Ap
 Al dar click en añadir usuario se redirecciona a la pagina http://localhost:8080/create, donde se encuentra el formulario de regisro
 ![image](https://user-images.githubusercontent.com/87463011/170396937-ded810b1-d156-4407-8c87-0d05665ea29d.png)
 
-Al guardar un usuario, se almacena el contacto y se direcciona a la pagina inicial donde apareceran los contactos y las opciones editar, eliminacion permanente y temporal, donde el usuario puede escoger la que desee realizar
+Al guardar un contacto se redirecciona a la pagina principal donde apareceran los contactos almacenados y las opciones editar, eliminacion permanente y elimiación temporal, donde el usuario puede escoger la que desee realizar
 
 ![image](https://user-images.githubusercontent.com/87463011/170397308-510f5f85-abf2-4872-9ae4-822f6d2d913b.png)
 
-La parte de backend de la aplicacion se puede obsevar en la ruta: https://github.com/lorenafajardo/Workshop-Springboot-MySQL-HTML/tree/main/workshop_springboot/contact/src/main/java/com/contact  donde se encuentran tres carpetas con el modelo, el controlador y el repositorio.  La parte de frontend se encuentra en la ruta https://github.com/lorenafajardo/Workshop-Springboot-MySQL-HTML/tree/main/workshop_springboot/contact/src/main/resources/templates donde se observar las diferentes vistas realizadas con thymeleaf, que permite implementar plantillas en HTML5. De esta manera el proyecto se acopla al patron de Modelo, Vista, Controlador -MVC.
+
+La parte de backend de la aplicacion se puede obsevar en la ruta: 
+https://github.com/lorenafajardo/Workshop-Springboot-MySQL-HTML/tree/main/workshop_springboot/contact/src/main/java/com/contact  
+donde se encuentran tres carpetas con el modelo, el controlador y el repositorio.  La parte de frontend se encuentra en la ruta https://github.com/lorenafajardo/Workshop-Springboot-MySQL-HTML/tree/main/workshop_springboot/contact/src/main/resources/templates 
+donde se observan las diferentes vistas realizadas con thymeleaf, herramienta que permitió la implementación plantillas en HTML5. 
+De esta manera el proyecto se acopla al patron de Modelo, Vista, Controlador -MVC.
 
 #### Autor
 Elaborado por: Lorena Fajardo Diaz
