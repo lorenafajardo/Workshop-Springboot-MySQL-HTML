@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: contact
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: LORENA FAJARDO
+Implementation-Vendor-Id: com.contact
+Build-Jdk: 1.8.0_281
+Implementation-URL: https://spring.io/projects/spring-boot/com.contact
+Created-By: Maven Integration for Eclipse
+
