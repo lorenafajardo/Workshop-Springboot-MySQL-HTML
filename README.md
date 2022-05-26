@@ -3,7 +3,7 @@ El presente proyecto trata sobre la elaboración de un CRUD para un sistema de c
 
 ## Pre-requisitos
 
-- La base de datos uilizada en el proyecto fue MySQL y se diseñó en la aplicación MySQL Workbench, ejecutando el script adjuntado en el repositorio con el nombre contact_book.sql
+- La base de datos uilizada en el proyecto fue MySQL y se diseñó en la aplicación MySQL Workbench, ejecutando el script adjuntado en el repositorio con el nombre *contact_book.sql*
    
 - Para la conexion con la base de datos se configuró el archivo applications.properties que se encuentra ubicado en la siguiente ruta: https://github.com/lorenafajardo/Workshop-Springboot-MySQL-HTML/blob/main/workshop_springboot/contact/src/main/resources/application.properties asignandole el username: root y password: 12345.
 
